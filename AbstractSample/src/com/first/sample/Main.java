@@ -5,6 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		MyProcess p = new MyProcess();
 		p.process();
+		// checking stage changes
 	}
 
 }
