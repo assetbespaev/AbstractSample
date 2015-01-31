@@ -6,6 +6,7 @@ public class Main {
 		MyProcess p = new MyProcess();
 		p.process();
 		// checking stage changes
+		// checking branches
 	}
 
 }
