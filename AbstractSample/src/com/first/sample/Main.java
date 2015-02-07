@@ -6,6 +6,7 @@ public class Main {
 		MyProcess p = new MyProcess();
 		p.process();
 		// Hello Asset
+		//Hello world
 	}
 
 }
